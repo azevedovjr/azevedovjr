@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou Valdeir Júnior 👋
 
-<!--
-**azevedovjr/azevedovjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas para Internet
 
-Here are some ideas to get you started:
+## Atualmente estudando
+- ☕ Java
+- 🐍 Python
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objetivos
+- Aprender desenvolvimento Front-end e Back-end
+- Construir projetos para meu portfólio
+- Evoluir como desenvolvedor Full Stack
+- Conquistar minha primeira oportunidade na área de tecnologia
+  
+## Projetos
+🚧 Em construção...
