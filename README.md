@@ -10,7 +10,7 @@
 - ⚡ JavaScript
 
 ## Objetivos
-- Aprender desenvolvimento Front-end e Back-end
+- Aprender desenvolvimento Front-end e Back-end para me tornar um desenvolvedor Full Stack
 - Construir projetos para meu portfólio
 - Evoluir como desenvolvedor Full Stack
 - Conquistar minha primeira oportunidade na área de tecnologia
